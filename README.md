@@ -4,3 +4,4 @@ Q1) Second Largest Number in the Array.
 Q2) Sum of Series
 Q3) Value equal to index value
 Q4) Sum of Array Elements
+Q5) Check for Binary
