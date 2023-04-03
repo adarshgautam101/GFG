@@ -6,3 +6,4 @@ Q3) Value equal to index value
 Q4) Sum of Array Elements
 Q5) Check for Binary
 Q6) Print alternate elements of an array
+Q7) Palindromic Array
