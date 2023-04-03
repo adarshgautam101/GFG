@@ -7,3 +7,4 @@ Q4) Sum of Array Elements
 Q5) Check for Binary
 Q6) Print alternate elements of an array
 Q7) Palindromic Array
+Q8) Arrays(Sum of array)
