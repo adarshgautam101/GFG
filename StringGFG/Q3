@@ -1,0 +1,6 @@
+/*Remove spaces*/
+class Solution {
+    String modify(String S) {
+        return S.replaceAll(" ", "");
+    }
+}
