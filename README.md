@@ -10,3 +10,4 @@ Q7) Palindromic Array
 Q8) Arrays(Sum of array)
 Q9) Count of smaller elements
 Q10) Sum of Array
+Q11) Print Elements of Array
