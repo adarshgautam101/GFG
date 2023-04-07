@@ -1,0 +1,15 @@
+/*Java Arrays | Set 1*/
+class Compute
+{
+    String average(int a[], int N)
+    {
+        int sum=0;
+        for(int i=0;i<a.length;i++){
+            sum=sum+a[i];
+        }
+       double s=(double)sum/a.length;
+ String result = String.format("%.2f", s);
+ 
+ return result;
+    }
+}
